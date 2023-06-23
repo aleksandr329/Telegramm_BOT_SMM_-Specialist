@@ -1,0 +1,18 @@
+This TelegrammBot was developed for a CMM specialist from the city of Nizhnevartovsk.
+This telegram bot works with the SQLite database, it records users who enter it into it. To be able to collect the CA database.
+The comments that users leave are also recorded in the database.
+And immediately this comment is sent to the administrator with all the information.
+
+This BOT is launched through the main.py file. All logic is described in this file.
+The db.py file contains all the logic for the BOTA to work with the database.
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________
+<-'RUS'->
+Данный TelegrammBot был разработан для CMM специалиста из города Нижневартовск.
+Данный телеграмм бот работает с базой данных SQLite, в нее он записывает пользователей которые заходят него. Чтобы можно было собирать базу данных ЦА.
+Так же в базу данных записываются коментарии которые оставляют пользователи.
+И сразу этот коментарий отправляется администратору со всей информацией.
+
+Запускается данный БОТ через файл main.py. В этом файле описанна вся логика. 
+В файле db.py вся логика для работы БОТА с базой данных. 
