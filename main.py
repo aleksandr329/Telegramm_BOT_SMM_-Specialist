@@ -3,7 +3,7 @@ import time
 from telebot import types
 from db import db_table_val, db_comment_save
 
-bot = telebot.TeleBot('5737940057:AAHAnHXtR6u5SsLcjYcKR6AM6CES9hQZ7b8')
+bot = telebot.TeleBot('YOU TOKEN')
 
 
 @bot.message_handler(commands=['start'])
