@@ -87,4 +87,4 @@ if __name__ == "__main__":
         bot.polling(none_stop=True)
         c = [7777777777]
         for i in c:
-            bot.send_message(i, 'Телеграм БОТ Марии скоро упадет')
+            bot.send_message(i, 'Телеграм БОТ ***** скоро упадет')
